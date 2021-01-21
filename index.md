@@ -1,4 +1,4 @@
-# Welcome to github.com/MunchkinMiester/muncher/gh-pages/index.md
+# Welcome to Muncher's github page
 
 This is just some random page where i mess around with stuff
 
